@@ -1,5 +1,9 @@
 # lib_mgmt_sys
 This is our repo to collaborate for code commits
+Install git for windows or linux whichever OS you use for your dev environment
+git config --global user.email <your_email>@gmail.com
+git config --global user.name <your name>
+
 To use the repo please follow the steps:
 1. clone the repo
    git clone https://github.com/kkmallela/lib_mgmt_sys.git
